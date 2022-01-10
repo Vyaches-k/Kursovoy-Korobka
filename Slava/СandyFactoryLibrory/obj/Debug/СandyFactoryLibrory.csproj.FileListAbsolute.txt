@@ -1,0 +1,11 @@
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\СandyFactoryLibrory\obj\Debug\СandyFactoryLibrory.csprojAssemblyReference.cache
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\СandyFactoryLibrory\obj\Debug\СandyFactoryLibrory.csproj.CoreCompileInputs.cache
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\СandyFactoryLibrory\bin\Debug\СandyFactoryLibrory.dll
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\СandyFactoryLibrory\bin\Debug\СandyFactoryLibrory.pdb
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\СandyFactoryLibrory\obj\Debug\СandyFactoryLibrory.dll
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\СandyFactoryLibrory\obj\Debug\СandyFactoryLibrory.pdb
+C:\Users\Vyaches\Downloads\Slava\Slava\СandyFactoryLibrory\bin\Debug\СandyFactoryLibrory.dll
+C:\Users\Vyaches\Downloads\Slava\Slava\СandyFactoryLibrory\bin\Debug\СandyFactoryLibrory.pdb
+C:\Users\Vyaches\Downloads\Slava\Slava\СandyFactoryLibrory\obj\Debug\СandyFactoryLibrory.csproj.CoreCompileInputs.cache
+C:\Users\Vyaches\Downloads\Slava\Slava\СandyFactoryLibrory\obj\Debug\СandyFactoryLibrory.dll
+C:\Users\Vyaches\Downloads\Slava\Slava\СandyFactoryLibrory\obj\Debug\СandyFactoryLibrory.pdb

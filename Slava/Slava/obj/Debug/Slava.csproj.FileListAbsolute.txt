@@ -1,0 +1,27 @@
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\Slava\obj\Debug\Slava.csprojAssemblyReference.cache
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\Slava\obj\Debug\Slava.Form1.resources
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\Slava\obj\Debug\Slava.Properties.Resources.resources
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\Slava\obj\Debug\Slava.csproj.GenerateResource.cache
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\Slava\obj\Debug\Slava.csproj.CoreCompileInputs.cache
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\Slava\bin\Debug\Slava.exe.config
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\Slava\bin\Debug\Slava.exe
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\Slava\bin\Debug\Slava.pdb
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\Slava\obj\Debug\Slava.exe
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\Slava\obj\Debug\Slava.pdb
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\Slava\bin\Debug\СandyFactoryLibrory.dll
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\Slava\bin\Debug\СandyFactoryLibrory.pdb
+C:\Users\Art12\OneDrive\Рабочий стол\КурНемойМобПрог\Slava\Slava\obj\Debug\Slava.csproj.CopyComplete
+C:\Users\Vyaches\Downloads\Slava\Slava\Slava\obj\Debug\Slava.csproj.AssemblyReference.cache
+C:\Users\Vyaches\Downloads\Slava\Slava\Slava\obj\Debug\Slava.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vyaches\Downloads\Slava\Slava\Slava\obj\Debug\Slava.exe
+C:\Users\Vyaches\Downloads\Slava\Slava\Slava\obj\Debug\Slava.pdb
+C:\Users\Vyaches\Downloads\Slava\Slava\Slava\bin\Debug\Slava.exe.config
+C:\Users\Vyaches\Downloads\Slava\Slava\Slava\bin\Debug\Slava.exe
+C:\Users\Vyaches\Downloads\Slava\Slava\Slava\bin\Debug\Slava.pdb
+C:\Users\Vyaches\Downloads\Slava\Slava\Slava\bin\Debug\СandyFactoryLibrory.dll
+C:\Users\Vyaches\Downloads\Slava\Slava\Slava\bin\Debug\СandyFactoryLibrory.pdb
+C:\Users\Vyaches\Downloads\Slava\Slava\Slava\obj\Debug\Slava.Form1.resources
+C:\Users\Vyaches\Downloads\Slava\Slava\Slava\obj\Debug\Slava.Properties.Resources.resources
+C:\Users\Vyaches\Downloads\Slava\Slava\Slava\obj\Debug\Slava.csproj.GenerateResource.cache
+C:\Users\Vyaches\Downloads\Slava\Slava\Slava\obj\Debug\Slava.csproj.CoreCompileInputs.cache
+C:\Users\Vyaches\Downloads\Slava\Slava\Slava\obj\Debug\Slava.csproj.CopyComplete
